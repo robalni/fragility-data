@@ -1,7 +1,8 @@
 In the absence of an explicit license, content is considered to be covered by
-    the CC-BY-SA license, you may use the content in Blue Nebula so long as you
+    the CC-BY-SA license, you may use the content in Fragility so long as you
     obey individual licensing criteria.
 
+    Fragility, Copyright (C) 2021 Fragility Team
     Blue Nebula, Copyright (C) 2020 Blue Nebula Team
     Red Eclipse, Copyright (C) 2009-2016 Red Eclipse Team
     Creative Commons Attribution ShareAlike 3.0 License (CC-BY-SA)
